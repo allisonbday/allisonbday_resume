@@ -8,7 +8,7 @@ title: Allison Day's Resume
 <div id="webaddress">
 <a href="allisonbeverlyday@gmail.com">allisonbeverlyday@gmail.com</a>
 | <a href="https://www.linkedin.com/in/allison-b-day/">LinkedIn</a>
-| <a href="https://github.com/allithegreat88">GitHub</a>
+| <a href="https://github.com/allisonbday">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->

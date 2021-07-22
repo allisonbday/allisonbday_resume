@@ -18,7 +18,7 @@ title: Allison Day's Resume
 `Expected 2022`
 **Brigham Young University - Idaho**, Rexburg, ID
 
-- Data Science Major, 3.85 GPA
+- Data Science Major, 3.80 GPA
 
 `2018-2020`
 **Utah Valley University**, Orem, UT
@@ -26,6 +26,13 @@ title: Allison Day's Resume
 - Associate's in General Studies, 3.8 GPA
 
 ## Related Experience
+
+### Data Annotator and Analyst
+`June 2021 - Present`
+**Research and Business Development Center**, Consultant for Levvel
+- Annotated Lidar data for Machine Learning
+- Used Box.com to manage files and github to update them
+- The data will be used to program self-driving forklifts
 
 ### Data Science Consultant
 

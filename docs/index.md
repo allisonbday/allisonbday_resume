@@ -67,4 +67,4 @@ title: Allison Day's Resume
 
 <!-- ### Footer
 
-Last updated: March 2021 -->
+Last updated: September 2021 -->

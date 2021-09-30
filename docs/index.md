@@ -43,12 +43,22 @@ title: Allison Day's Resume
 - Git/Github managed project using Python leveraging pandas and Altair within the dasboard.
 - Dashboard will be leveraged to propose new degrees for college.
 
+### English Connect 3 Grader
+
+`September 2020 - July 2021`
+**Brigham Young University Pathway**, Graded papers from People Learing English
+
+- 
+
 ## Service and Work History
 
-`September 2020 - Present`
+`July 2021 - Present`
+**Data Annotator and Analyst**, Research Business and Development Center- Idaho
+
+`September 2020 - July 2021`
 **English Connect 3 Grader**, Brigham Young University - Idaho
 
-`September 2020 - Present`
+`September 2020 - July 2021`
 **Student Consult on Teaching**, Brigham Young University - Idaho
 
 `2019-2020`

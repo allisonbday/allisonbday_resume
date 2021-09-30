@@ -48,7 +48,8 @@ title: Allison Day's Resume
 `September 2020 - July 2021`
 **Brigham Young University Pathway**, Graded papers from People Learing English
 
-- 
+- Reviewed submissions of students in the English Connect 3 Program
+
 
 ## Service and Work History
 

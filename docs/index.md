@@ -30,9 +30,9 @@ title: Allison Day's Resume
 ### Data Annotator and Analyst
 `June 2021 - Present`
 **Research and Business Development Center**, Consultant for Levvel
-- Annotated Lidar data for Machine Learning
+- Annotated Lidar data for Machine Learning to program self-driving forklifts
 - Used Box.com to manage files and github to update them
-- The data will be used to program self-driving forklifts
+- Helped train oncomming annotators on the software and mentored them through the onboarding.
 
 ### Data Science Consultant
 
